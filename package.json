@@ -11,20 +11,20 @@
   "dependencies": {
     "async": ">=0.6.2",
     "form-data": ">=0.1.2",
-
     "request": "~2.42.0",
     "bluebird": "~2.3.2",
     "streamifier": "~0.1.0"
   },
   "devDependencies": {
     "nodeunit": ">=0.8.6",
-
     "express": "*",
     "morgan": "*",
     "jade": "*"
   },
-  "licenses": [{
-    "type": "MIT License",
-    "url": "http://www.opensource.org/licenses/mit-license.php"
-  }]
+  "licenses": [
+    {
+      "type": "MIT License",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
 }
